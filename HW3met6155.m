@@ -1,4 +1,4 @@
-%PROJECT WAS WITH SHUHANG XUE
+
 slhf06 = ncread('2016-06.nc','slhf');
 slhf06 = (slhf06)/(-3600);
 sshf06 = ncread('2016-06.nc','sshf');
