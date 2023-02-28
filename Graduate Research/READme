@@ -4,5 +4,6 @@ T = Temperature
 RH = Relative Humidity
 Wind = Wind Field (vectors)
 flttredone = this is the first and last day that heatwaves occur in a calendar year over a 20 year period.
+frac = the fraction or ratio between two models, or between a dataset and model, or for heatwave events spanning many days (ex - a 4-day heatwave event to a 1-day event)
 URSM20/21, and CRSM20/21 are Regional Spectral Models
 ERA5 is a reanalysis dataset
