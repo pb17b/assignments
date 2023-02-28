@@ -1,1 +1,5 @@
 The contents in this folder are all from my Graduate Research. The file names can be a bit confusing if you are not familiar with meteorological variables. 
+Q = Specific Humidity
+T = Temperature
+RH = Relative Humidity
+Wind = Wind Field (vectors)
